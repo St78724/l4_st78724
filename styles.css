@@ -1,0 +1,49 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+.grad {
+    background-image: linear-gradient(to right, yellow, red);
+}
+h1 {
+    color: #200;
+}
+
+.centertext {
+    text-align: center;
+}
+
+#disclaimer {
+    font-style: italic;
+    font-size: 16px;
+}
+
+#heading {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.lefttext {
+    text-align: left;
+}
+
+#subheading {
+    font-size: 24px;
+}
+
+.scroll {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+#textbold {
+    font-weight: bold;
+}
+.colorRed{
+    color:crimson;
+}
+.colorBlue{
+    color:blue;
+}
